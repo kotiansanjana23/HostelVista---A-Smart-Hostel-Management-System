@@ -361,7 +361,7 @@ mvn -version
 ## 📥 Clone the Repository
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-URL>
+git clone https://github.com/kotiansanjana23/HostelVista.git
 cd HostelVista
 ```
 
